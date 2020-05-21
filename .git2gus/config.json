@@ -6,5 +6,6 @@
 	"enhancement":"USER STORY",
 	},
     "hideWorkItemUrl": "true",
-    "statusWhenClosed": "CLOSED"
+    "statusWhenClosed": "CLOSED",
+    "defaultBuild": "offcore.tooling.48"
 }
