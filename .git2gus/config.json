@@ -11,5 +11,5 @@
 	},
     "hideWorkItemUrl": "true",
     "statusWhenClosed": "CLOSED",
-    "defaultBuild": "228"
+    "defaultBuild": "offcore.tooling.48"
 }
