@@ -2,14 +2,9 @@
     "productTag": "a1aB0000000CTj9IAG",
     "issueTypeLabels": {
 	"bug":"BUG P3",
+	"security":"BUG P2",
 	"enhancement":"USER STORY",
-	"Required for Pilot" : "USER STORY",
-	"Required for TDX Demo" : "USER STORY",
-	"Post Pilot" : "USER STORY",
-	"Pilot Nice to have" : "USER STORY",
-	"Required for Beta" : "USER STORY"
 	},
     "hideWorkItemUrl": "true",
-    "statusWhenClosed": "CLOSED",
-    "defaultBuild": "offcore.tooling.48"
+    "statusWhenClosed": "CLOSED"
 }
