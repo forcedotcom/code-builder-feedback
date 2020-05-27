@@ -3,7 +3,7 @@
     "issueTypeLabels": {
 	"bug":"BUG P3",
 	"security":"BUG P2",
-	"enhancement":"USER STORY",
+	"enhancement":"USER STORY"
 	},
     "hideWorkItemUrl": "true",
     "statusWhenClosed": "CLOSED",
