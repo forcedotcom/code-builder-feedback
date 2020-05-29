@@ -1,6 +1,6 @@
-# Web IDE Pilot Feedback
+# Code Builder Pilot Feedback
 
-This repository is used to collect feedback and issues on the Salesforce "Web IDE" pilot.
+This repository is used to collect feedback and issues on the Salesforce Code Builder pilot.
 
 > REMINDER: This pilot is currently SALESFORCE CONFIDENTIAL and only availible for SALESFORCE EMPLOYEES at this time. Do not SHARE or DISCUSS this pilot with customers. We have NOT ANNOUNCED THIS PRODUCT YET.
 
