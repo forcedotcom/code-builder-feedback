@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a Pilot user, we want to understand how webIDE fits into your current workflow. This is for general feedback about your experience using the product and giving us your overall impression. 
+<!-- As a Pilot user, we want to understand how webIDE fits into your current workflow. This is for general feedback about your experience using the product and giving us your overall impression. -->
 
 **What is your role?**
 
