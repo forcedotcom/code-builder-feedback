@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: File a bug, when you encounter an issue with the WebIDE
+about: File a bug, when you encounter an issue with the CodeBuilder
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-<!-- This repo is for feedback on the WebIDE during Pilot, please limit your issues to those associated with the Workspace manager and IDE instances of the WebIDE. Please let us know if you encounter any issues both creating or launching the IDE along with issues using the salesforce specific features in the IDE -->
+<!-- This repo is for feedback on the CodeBuilder during Pilot, please limit your issues to those associated with the Workspace manager and CodeBuilder environments. Please let us know if you encounter any issues both creating or launching the environments along with issues using the salesforce specific features in the environment -->
 
 **Describe the bug**
 A clear and concise description of what the bug is. What were you trying to do? What was your goal?
