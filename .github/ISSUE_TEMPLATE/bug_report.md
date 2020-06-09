@@ -1,16 +1,16 @@
 ---
 name: Bug report
-about: File a bug, when you encounter an issue with the CodeBuilder
+about: File a bug, when you encounter an issue with the Code Builder
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-<!-- This repo is for feedback on the CodeBuilder during Pilot, please limit your issues to those associated with the Workspace manager and CodeBuilder environments. Please let us know if you encounter any issues both creating or launching the environments along with issues using the salesforce specific features in the environment -->
+<!-- This repo is for feedback on the Code Builder during Pilot, please limit your issues to those associated with the Workspace manager and Code Builder environments. Please let us know if you encounter any issues both creating or launching the environments along with issues using the Salesforce specific features in the environment -->
 
 **Describe the bug**
-A clear and concise description of what the bug is. What were you trying to do? What was your goal?
+A clear and concise description of the bug. What were you trying to do? What was your goal?
 
 **To Reproduce**
 Steps to reproduce the behavior:
