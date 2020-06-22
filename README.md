@@ -1,12 +1,12 @@
 # Welcome to the Salesforce Code Builder Pilot!
 
-Welcome to the next chapter in the Salesforce Developer Experience! Have you wanted to try some of our newer, modern tooling but didn’t want the overhead of installing and configuring it locally? Would you like flexibility in how and where you work, from any computer? Do you want the power of a feature-rich development environment that’s integrated with Salesforce? 
+Welcome to the next chapter in the Salesforce Developer Experience! Have you wanted to try some of our newer, modern tooling but didn't want the overhead of installing and configuring it locally? Would you like flexibility in how and where you work, from any computer? Do you want the power of a feature-rich development environment that's integrated with Salesforce? 
 
 Step right up. Code Builder is here. Powered by Visual Studio Codespaces, this web-based integrated development environment provides all the power and flexibility of Salesforce Extensions for VS Code and Salesforce CLI in your web browser -- the tools you want, optimized to do Salesforce work easily and productively. 
 
-**Note:** We provide Salesforce Code Builder to selected customers through a pilot program that requires agreement to specific terms and conditions. Code Builder is subject to change and isn’t generally available unless or until Salesforce announces its general availability in documentation or in press releases or public statements. We can’t guarantee general availability within any particular time frame or at all. Make your purchase decisions only on the basis of generally available products and features.
+**Note:** We provide Salesforce Code Builder to selected customers through a pilot program that requires agreement to specific terms and conditions. Code Builder is subject to change and isn't generally available unless or until Salesforce announces its general availability in documentation or in press releases or public statements. We can't guarantee general availability within any particular time frame or at all. Make your purchase decisions only on the basis of generally available products and features.
 
-This repository is your one-stop shop for pilot interaction. We are funneling all feedback and documentation here so that you don’t have to go digging to find things, and we can engage with you all in one place. This is a private shared repository. Only Code Builder pilot users and Salesforce Developer Tooling employees have access to it. 
+This repository is your one-stop shop for pilot interaction. We are funneling all feedback and documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a private shared repository. Only Code Builder pilot users and Salesforce Developer Tooling employees have access to it. 
 
 
 ## We Want Your Feedback
