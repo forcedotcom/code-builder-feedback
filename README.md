@@ -1,10 +1,10 @@
-# Welcome to the Salesforce Code Builder Pilot!
+# Welcome to the Salesforce Code Builder Beta!
 
 Welcome to the next chapter in the Salesforce Developer Experience! Have you wanted to try some of our newer, modern tooling but didn't want the overhead of installing and configuring it locally? Would you like flexibility in how and where you work, from any computer? Do you want the power of a feature-rich development environment that's integrated with Salesforce? 
 
-Step right up. Code Builder is here. This web-based integrated development environment provides all the power and flexibility of Salesforce Extensions for VS Code and Salesforce CLI in your web browser -- the tools you want, optimized to do Salesforce work easily and productively. 
+Step right up. Code Builder is here. This web-based integrated development environment provides all the power and flexibility of Salesforce Extensions for VS Code and Salesforce CLI, including the new unified CLI, in your web browser -- the tools you want, optimized to do Salesforce work easily and productively. 
 
-This repository is your one-stop shop for pilot interaction. We are funneling all feedback and documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a private shared repository. Only Code Builder pilot users and Salesforce Developer Tooling employees have access to it. 
+This repository is your one-stop shop for beta interaction. We are funneling all feedback, discussion and links to documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a public repository. We request that you submit an 'Issue' if you are actively using Code Builder and have feedback or an issue.  If you aren't it but have a question, hit us up in the Discussions.
 
 
 ## We Want Your Feedback
