@@ -16,8 +16,8 @@ Feel free to be direct in your feedback but also remember that there are humans 
 ## Next Steps
 
 * Read the docs!
-    * [Setup Code Builder](https://github.com/forcedotcom/try-code-builder-feedback/wiki/Get-Started-with-Code-Builder-(Beta))
-    * [Get Started with Code Builder](https://github.com/forcedotcom/try-code-builder-feedback/wiki/Install-and-Configure-Code-Builder-(Beta))
+    * [Setup Code Builder](https://github.com/forcedotcom/try-code-builder-feedback/wiki/Install-and-Configure-Code-Builder-(Beta))
+    * [Get Started with Code Builder](https://github.com/forcedotcom/try-code-builder-feedback/wiki/Get-Started-with-Code-Builder-(Beta))
 * Try out Code Builder
 * [Give Feedback](https://github.com/forcedotcom/try-code-builder-feedback/issues)
 
