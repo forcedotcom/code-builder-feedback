@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: No Response
+
+# Both `issue_comment` and `scheduled` event types are required for this Action
+# to work properly.
+on:
+  issue_comment:
+    types: [created]
+  schedule:
+    # Schedule for five minutes after the hour, every hour
+    - cron: '5 * * * *'
+
+jobs:
+  noResponse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lee-dohm/no-response@v0.5.0
+        with:
+          token: ${{ github.token }}
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
