@@ -4,14 +4,14 @@ Welcome to the next chapter in the Salesforce Developer Experience! Have you wan
 
 Step right up. Code Builder is here. This web-based integrated development environment provides the power and flexibility of Salesforce Extensions for VS Code and Salesforce CLI, including the new unified CLI, in your web browser -- the tools you want, optimized to do Salesforce work easily and productively. 
 
-This repository is your one-stop shop for beta interaction. We are funneling all feedback, discussion and links to documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a public repository.  We request that you submit an 'Issue' if you are actively using Code Builder and have feedback or an issue.  If you aren't a user but have a question, please post it in [Discussions](https://github.com/forcedotcom/try-code-builder-feedback/discussions).
+This repository is your one-stop shop for beta interaction. We are funneling all feedback, discussion and links to documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a public repository.  We request that you submit an 'Issue' if you are actively using Code Builder and have feedback or an issue.  
 
 
 ## We Want Your Feedback
 
 We really appreciate your participation in the Code Builder beta. Your feedback will help shape the future of Code Builder as well as our other Developer tools. Please provide feedback often by creating [an issue](https://github.com/forcedotcom/try-code-builder-feedback/issues) in the repository. We are looking for general impressions and feedback on how this tool helps you in your current workflow, feature requests, and bugs. There are templates for each type of feedback. We look forward to hearing from you!
 
-Feel free to be direct in your feedback but also remember that there are humans reading your comments, so please be respectful and adhere to our code of conduct. Also, provide feedback only in this repository or directly to the Code Builder development team. Reserve public feedback for [Discussions](https://github.com/forcedotcom/try-code-builder-feedback/discussions).
+Feel free to be direct in your feedback but also remember that there are humans reading your comments, so please be respectful and adhere to our code of conduct. Also, provide feedback only in this repository or directly to the Code Builder development team. 
 
 ## Next Steps
 
