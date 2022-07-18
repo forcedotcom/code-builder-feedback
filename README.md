@@ -4,7 +4,7 @@ Welcome to the next chapter in the Salesforce Developer Experience! Have you wan
 
 Step right up. Code Builder is here. This web-based integrated development environment provides the power and flexibility of Salesforce Extensions for VS Code and Salesforce CLI, including the new unified CLI, in your web browser -- the tools you want, optimized to do Salesforce work easily and productively. 
 
-This repository is your one-stop shop for beta interaction. We are funneling all feedback, discussion and links to documentation here so that you don't have to go digging to find things, and we can engage with you all in one place. This is a public repository.  We request that you submit an 'Issue' if you are actively using Code Builder and have feedback or an issue.  
+This repository is your place to give us feedback or report an issue. This is a public repository.  We request that you submit an 'Issue' if you are actively using Code Builder and have feedback or an issue.  If you just have a question or want to chat about Code Builder, head over to our [Trailblazer Commuity Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kJcFSAU).
 
 
 ## We Want Your Feedback
@@ -20,4 +20,5 @@ Feel free to be direct in your feedback but also remember that there are humans 
     * [Get Started with Code Builder](https://developer.salesforce.com/tools/vscode/en/codebuilder/cb-start)
 * Try out Code Builder
 * [Give Feedback](https://github.com/forcedotcom/try-code-builder-feedback/issues)
+* Have a question about Code Builder?  Head over to our [Trailblazer Commuity Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kJcFSAU).
 
