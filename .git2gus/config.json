@@ -1,11 +1,11 @@
 {
   "productTag": "a1aB0000000YP4JIAW",
   "issueTypeLabels": {
-    "bug": "BUG P3",
-    "security": "BUG P2",
-    "enhancement": "USER STORY"
+    "type:bug": "BUG P3",
+    "type:low-p-bug": "BUG P4",
+    "type:enhancement": "USER STORY"
   },
   "hideWorkItemUrl": "true",
   "statusWhenClosed": "CLOSED",
-  "defaultBuild": "offcore.tooling.52"
+  "defaultBuild": "offcore.tooling.55.0.0"
 }
