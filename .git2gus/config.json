@@ -1,8 +1,7 @@
 {
   "productTag": "a1aB0000000YP4JIAW",
   "issueTypeLabels": {
-    "type:bug": "BUG P3",
-    "type:enhancement": "USER STORY"
+    "type:bug": "BUG P3"
   },
   "hideWorkItemUrl": "true",
   "statusWhenClosed": "CLOSED",
