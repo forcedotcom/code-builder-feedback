@@ -4,9 +4,9 @@ Each release typically contains bug fixes, as well as performance and security e
 
 These release notes outline the changes of note in the latest Code Builder release.
 
-## v1.3.1 (Sep 25, 2024) 
+## v1.3.0 (Sep 25, 2024) 
 
-- We made a significant improvement in the startup time for Code Builder instances.
+- We made a significant improvement in the startup time for Code Builder instances. The version number is still 1.3.0 because this is an infrastructure change rather than an update to the Code Builder package.
 
 ## v1.3.0 (May 3, 2024) 
 
