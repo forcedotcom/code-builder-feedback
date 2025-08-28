@@ -4,6 +4,14 @@ Each release typically contains bug fixes, as well as performance and security e
 
 These release notes outline the changes of note in the latest Code Builder release.
 
+## August 28th 2025
+
+We’ve updated the org authentication flow to align with [Salesforce CLI changes](https://github.com/forcedotcom/cli/issues/3368). The Connected App authorization flow now uses Web Auth and delivers a more reliable authentication experience.
+
+As a result of this change, a very small subset of our users might see an `Invalid Authentication State` error during active transition to Web Auth. We recommend that you don't use the Code Builder instance during this transition. If you encounter this error, the wait time for an instance to refresh is around 15 minutes. We apologize in advance for any inconvenience this may cause. 
+
+Some users might see an `{"error":"Unable to complete authorization."}` error.  If you encounter this error, reset your environment and try again. Create an [issue](https://github.com/forcedotcom/code-builder-feedback/issues) if the error persists.
+
 ## Jul 15 2025
 
 - :tada: :rocket: We’re excited to announce that Code Builder is now accessible in sandbox environments. Once an admin has accepted the Code Builder Terms and Conditions and assigned the necessary permissions, users can launch Code Builder directly from sandboxes.
