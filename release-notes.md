@@ -6,7 +6,7 @@ These release notes outline the changes of note in the latest Agentforce Vibes I
 
 ## Oct 10th 2025
 
-Formerly known as Code Builder, the Agentforce Vibes IDE is now accessible directly from your Salesforce org! This modern, web-based IDE delivers the full power of Visual Studio Code in your browser, complete with Salesforce Extensions, the Salesforce CLI, and GitHub integration.
+Formerly known as Agentforce Vibes IDE, the Agentforce Vibes IDE is now accessible directly from your Salesforce org! This modern, web-based IDE delivers the full power of Visual Studio Code in your browser, complete with Salesforce Extensions, the Salesforce CLI, and GitHub integration.
 Launch from your org’s Setup menu to get an instantly authenticated, org-aware environment where your metadata automatically loads into an SFDX project—no manual setup required.
 
 
@@ -14,13 +14,13 @@ Launch from your org’s Setup menu to get an instantly authenticated, org-aware
 
 We’ve updated the org authentication flow to align with [Salesforce CLI changes](https://github.com/forcedotcom/cli/issues/3368). The Connected App authorization flow now uses Web Auth and delivers a more reliable authentication experience.
 
-As a result of this change, a very small subset of our users might see an `Invalid Authentication State` error during active transition to Web Auth. We recommend that you don't use the Code Builder instance during this transition. If you encounter this error, the wait time for an instance to refresh is around 15 minutes. We apologize in advance for any inconvenience this may cause. 
+As a result of this change, a very small subset of our users might see an `Invalid Authentication State` error during active transition to Web Auth. We recommend that you don't use the Agentforce Vibes IDE instance during this transition. If you encounter this error, the wait time for an instance to refresh is around 15 minutes. We apologize in advance for any inconvenience this may cause. 
 
 Some users might see an `{"error":"Unable to complete authorization."}` error.  If you encounter this error, reset your environment and try again. Create an [issue](https://github.com/forcedotcom/code-builder-feedback/issues) if the error persists.
 
 ## Jul 15 2025
 
-- :tada: :rocket: We’re excited to announce that Agentforce Vibes IDE is now accessible in sandbox environments. Once an admin has accepted the Code Builder Terms and Conditions and assigned the necessary permissions, users can launch Agentforce Vibes IDE directly from sandboxes.
+- :tada: :rocket: We’re excited to announce that Agentforce Vibes IDE is now accessible in sandbox environments. Once an admin has accepted the Agentforce Vibes IDE Terms and Conditions and assigned the necessary permissions, users can launch Agentforce Vibes IDE directly from sandboxes.
 This enhancement streamlines development workflows by enabling seamless access to Agentforce Vibes IDE in non-production orgs - bridging the gap between sandbox and production environments and equipping developers with powerful, consistent tooling throughout the development lifecycle.
 Get Ready! We’re rolling out this feature in waves—starting with 10% of orgs and expanding by an additional 20% each week until everyone has access. Keep an eye out—it’s coming your way soon!
 
