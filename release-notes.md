@@ -4,6 +4,14 @@ Each release typically contains bug fixes, as well as performance and security e
 
 These release notes outline the changes of note in the latest Agentforce Vibes IDE release.
 
+## Oct 13 2025
+
+**Update About Agentforce Vibes Access in Setup Menu**
+
+Agentforce Vibes doesn't appear under the Setup gear menu for users who don’t have the `View All Data` permission. This change is tied to the new method we use for automatic org authentication when launching the IDE. With the ability to launch Agentforce Vibes directly from Sandboxes, we expect this to become the primary access path for most developers. In these scenarios, developers typically already have the higher-level permissions required.
+
+
+
 ## Oct 10th 2025
 
 Formerly known as Agentforce Vibes IDE, the Agentforce Vibes IDE is now accessible directly from your Salesforce org! This modern, web-based IDE delivers the full power of Visual Studio Code in your browser, complete with Salesforce Extensions, the Salesforce CLI, and GitHub integration.
