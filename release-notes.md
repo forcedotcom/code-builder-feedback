@@ -6,9 +6,10 @@ These release notes outline the changes of note in the latest Agentforce Vibes I
 
 ## Oct 13 2025
 
-**More Information About Agentforce Vibes Access in Setup Menu**
+**More Information About Agentforce Vibes Access from Setup Menu**
 
-Agentforce Vibes now appears under the Setup gear menu for all users, even those without the `View All Data` permission. While this makes the option more widely visible, some users may not have the permissions needed to fully access it. An upcoming update will better align menu visibility with permission requirements.
+Currently, Agentforce Vibes appears under the Setup gear menu for all users. To access Agentforce Vibes, users must have the `View All Data` permission. Those without this permission will see an error message prompting them to contact their administrator for access.
+Developers can access Agentforce Vibes from Sandboxes without requiring production access, where they typically have higher-level permissions.
 
 ## Oct 10th 2025
 
