@@ -13,7 +13,7 @@ Developers can access Agentforce Vibes from Sandboxes without requiring producti
 
 ## Oct 10th 2025
 
-Formerly known as Agentforce Vibes IDE, the Agentforce Vibes IDE is now accessible directly from your Salesforce org! This modern, web-based IDE delivers the full power of Visual Studio Code in your browser, complete with Salesforce Extensions, the Salesforce CLI, and GitHub integration.
+Formerly known as Code Builder, the Agentforce Vibes IDE is now accessible directly from your Salesforce org! This modern, web-based IDE delivers the full power of Visual Studio Code in your browser, complete with Salesforce Extensions, the Salesforce CLI, and GitHub integration.
 Launch from your org’s Setup menu to get an instantly authenticated, org-aware environment where your metadata automatically loads into an SFDX project—no manual setup required.
 
 
