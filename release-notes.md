@@ -4,6 +4,14 @@ Each release typically contains bug fixes, as well as performance and security e
 
 These release notes outline the changes of note in the latest Agentforce Vibes IDE release.
 
+
+## Jan 16 2026
+
+**Agentforce Vibes IDE in Sandboxes**
+
+We’ve heard your feedback! :bulb: Agentforce Vibes IDE will now be available only in Salesforce Sandboxes, so you can keep experimenting and building in a safe environment.
+Access in production orgs has been turned off to keep Vibes focused where it’s meant to shine—inside your sandboxes.
+
 ## Oct 13 2025
 
 **More Information About Agentforce Vibes Access from Setup Gear Menu**
