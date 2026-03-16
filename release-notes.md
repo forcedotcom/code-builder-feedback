@@ -9,9 +9,7 @@ These release notes outline the changes of note in the latest Agentforce Vibes I
 **Enhanced security for org authorization in Agentforce Vibes IDE**
 
 To enhance the security of the product, we've introduced a new verification step in the org-authorization flow.
-When you authorize your org in Agentforce Vibes IDE, a verification code displays in your IDE. To complete authorization, you must enter this code on the confirmation page before continuing.
-This added step helps ensure that the person completing the authorization is the same person who initiated it in the IDE. This step provides an extra layer of protection during the OAuth-callback flow.
-If an incorrect code is entered, an error message is shown and the authorization is halted.
+When you authorize your org in Agentforce Vibes IDE, a verification code displays in your IDE. To complete authorization, you must enter this code on the confirmation page before continuing. If an incorrect code is entered, an error message is shown and the authorization is halted.
 
 
 ## Jan 16 2026
