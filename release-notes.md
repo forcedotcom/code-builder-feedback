@@ -4,6 +4,16 @@ Each release typically contains bug fixes, as well as performance and security e
 
 These release notes outline the changes of note in the latest Agentforce Vibes IDE release.
 
+## Aug 6 2026
+
+**Agentforce Vibes IDE in Scratch Orgs**
+
+Agentforce Vibes IDE is now available in scratch orgs. Enterprise, Professional, and Unlimited Edition scratch orgs get access automatically—no changes to your scratch org definition file needed. For Developer Edition scratch orgs, add the `AgentforceVibesIDEForDE` feature to your scratch org definition file to enable access. See [Scratch Org Features](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_scratch_orgs_def_file_config_values.htm) for details.
+
+**Static IP for Agentforce Vibes IDE (Developer Preview)**
+
+As a developer preview, Agentforce Vibes IDE workspaces now operate from a predictable set of static IP addresses. This makes it easier to configure trusted IP ranges in your org's network settings when IP-based access policies are in place.
+
 ## Mar 16 2026
 
 **Enhanced security for org authorization in Agentforce Vibes IDE**
